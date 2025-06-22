@@ -7,4 +7,5 @@ function greetings(){
 
 }
 
+console.log("version 13")
 export default greetings
